@@ -1,0 +1,666 @@
+,Domaine,Object_Property,Range
+0,scope exclusion assist ,manage,stakeholder expectation 
+1,work seller ,develop,support contract 
+2,level uncertainty valuation ,evaluate,rank idea 
+3,analysis ,useevaluate,way 
+4,product project work ,include,project management work 
+5,work exclude help ,determine,project management team 
+6,process asset inﬂuence ,collect,requirement process 
+7,point project ,inputs,tool technique output 
+8,attribute ,ensure,requirement meet stakeholder 
+9,phase project ,improve,scope control 
+10,project help ,manage,stakeholder 
+11,scope ,inputs,tool 
+12,process ,establish,scope baseline 
+13,approach ,establish,criterion requirement 
+14,wbs ,organize,deﬁne 
+15,work package ,vary,size complexity project 
+16,number participant ,ensure,decision 
+17,majority decision ,reach,support 
+18,scope management plan ,update,reﬂect 
+19,wbs ,create,wbs process subdividing 
+20,practice ,generate,idea 
+21,product analysis technique ,include,limit 
+22,product development qfd ,startcollect,customer 
+23,work ,refer,work product 
+24,detail ,need,design 
+25,analysis ,use,deﬁne product service 
+26,product requirement care ,determinedocumenting,manage 
+27,wbs structure ,create,approach 
+28,condition ,meet,order 
+29,project work ,include,project management work 
+30,approach ,establish,criterion risk level 
+31,process ,bring,objectivity acceptance process 
+32,requirement ,obtain,prototype 
+33,contract work seller ,develop,support contract 
+34,training requirement ,need,transition 
+35,stakeholder ,register,business document 
+36,project life cycle ,determine,series phase 
+37,idea ,relate,project product requirement 
+38,assumption constraint highlevel requirement project ,,
+39,number change request ,receive,number request 
+40,person ,authorize,project charter project 
+41,project product scope ,avoidmitigate,risk 
+42,stakeholder expectation ,enable,project team 
+43,project life cycle ,determine,series phase project 
+44,,resultinclude,project requirement condition capability 
+45,scope statement ,include,description project 
+46,component ,require,change request project 
+47,business document inﬂuence ,collect,requirement process 
+48,requirement ,include,quantiﬁed document need 
+49,way ,collect,requirement 
+50,technique input output ,define,scope 
+51,project meeting ,develop,scope management plan 
+52,example ,include,milestone date 
+53,information regard wbs ,refer,practice 
+54,sponsor process output ,obtain,result planning 
+55,requirement ,improve,software development process 
+56,control scope process ,include,limit 
+57,,leadincrease,stakeholder consensus addition 
+58,management plan component ,include,limit scope 
+59,expectation ,reduce,scope 
+60,relationship ,improve,communication 
+61,business requirement higherlevel ,need,organization 
+62,measure project execution ,begin,requirement foundation 
+63,product analysis ,use,deﬁne product service 
+64,organization ,refer,business analysis plan 
+65,project product scope ,create,product validate 
+66,example document analyze ,include,limit 
+67,expectation attitude ,propose,product service 
+68,planning iteration ,carry,work progress 
+69,use ,identify,stakeholder 
+70,response ,approve,change scope schedule 
+71,breakdown ,verify,correctness 
+72,duration estimate ,manage,level decomposition guide 
+73,wbs ,represent,product project work 
+74,way ,meet,requirement 
+75,description ,require,functionality 
+76,cycle help ,ensure,requirement approve requirement 
+77,process ,provide,framework 
+78,guideline ,usebottomup,wbs template 
+79,decisionmake technique use ,collect,requirement process 
+80,turnaround ,need,respondent 
+81,branch ,wbsdecompose,work package level 
+82,project charter ,provide,highlevel project description 
+83,project scope ,reduce,change project product 
+84,,reportrequire,authorization level approve change 
+85,question problem ,pose,group person 
+86,requirement process ,include,limit 
+87,deﬁne product service ,includeask,question product service 
+88,job task ,carry,process 
+89,level detail ,contain,project charter 
+90,improvement ,provide,basis measure performance 
+91,control scope ,include,cause variance 
+92,process ,provide,basis deﬁne product 
+93,description d business ,need,opportunity goal objective 
+94,approach ,establish,criterion requirement schedule 
+95,disposition perform ,integrate,change control process 
+96,schedule baseline ,incorporate,response 
+97,project requirement example ,include,test certiﬁcation 
+98,scope process ,differ,control quality process 
+99,example ,include,reliability 
+100,session focus ,bring,business subject matter 
+101,level ,wbs,decomposition 
+102,team work execution ,provide,baseline 
+103,environment ,perform,job task 
+104,requirement provide model ,expect,product 
+105,scope management plan ,contain,information 
+106,technique input output ,collect,requirement 
+107,project scope statement ,include,description project scope 
+108,decomposition ,requiredetermine,lowerlevel 
+109,block group ,decide,majority 
+110,example project document ,consider,input process 
+111,lesson ,learnregister,update 
+112,variance analysis ,usecompare,baseline 
+113,stakeholder ,gather,result process record 
+114,objectivity acceptance process ,increase,probability 
+115,knowledge area basis ,perform,validation 
+116,highlevel requirement project ,intend,satisfy 
+117,product service ,result,train 
+118,procedure experience ,uncoverhidden,requirement 
+119,survey questionnaire survey ,writeset,question design 
+120,agreement ,contain,project product requirement 
+121,stakeholder ,register,use 
+122,design ,construct,integration 
+123,management plan component ,include,limit scope management 
+124,request component ,require,change request project 
+125,result ,determine,variance threshold 
+126,identiﬁe collect requirement ,include,project deﬁne scope 
+127,project scope control ,include,determine cause degree 
+128,project objective provide ,means,track requirement 
+129,requirement analyze ,exist,documentation 
+130,process ,enable,creation 
+131,project scope control ,include,determine cause 
+132,project charter ,provide,highlevel project 
+133,moderator ,write,idea 
+134,structure ,represent,number form 
+135,stakeholder ,register,figure 
+136,project team ,attend,project meeting 
+137,speciﬁcity information project ,knowexist,risk assumption 
+138,session facilitation skill ,use,follow situation 
+139,focus group ,bring,prequaliﬁe stakeholder subject 
+140,acceptance criterion ,set,condition 
+141,work exclude help ,determine,project management 
+142,simulation prototype ,allow,stakeholder experiment model 
+143,account work package ,know,work 
+144,management plan document ,wbscreate,project scope statement 
+145,session facilitation skill ,use,follow situation limit 
+146,condition quality ,require,product 
+147,technique use process ,include,limit 
+148,business system actor ,provide,input 
+149,factor inﬂuence ,collect,requirement process 
+150,life cycle help ,ensure,requirement approve requirement 
+151,framework ,deliver,process 
+152,sponsor process output ,obtain,result planning process 
+153,document update result ,carry,process 
+154,detail work package ,vary,size complexity project 
+155,aspect ,deliver,application area 
+156,scope ,reduce,change project product 
+157,scope work ,carry,project team 
+158,traceability structure ,reﬂect,requirement attribute 
+159,mapping mind mapping ,consolidate,idea 
+160,charter ,provide,highlevel project description 
+161,process ,prepare,project scope statement 
+162,business system actor ,receive,output figure 
+163,constraint analyze completeness ,add,update 
+164,,resultinclude,project requirement condition capability 
+165,process perform ,integrate,change control process 
+166,process ,provide,framework 
+167,process perform ,integrate,change control 
+168,identiﬁe collect requirement ,include,project deﬁne scope 
+169,point project ,inputs,tool technique output 
+170,requirement ,include,quantiﬁed document need 
+171,technique input output ,define,scope 
+172,scope management process ,create,scope management plan 
+173,sponsor process output ,obtain,result planning 
+174,scope deﬁne ,develop,monitor 
+175,scope ,inputs,tool 
+176,process ,perform,project 
+177,stakeholder ,register,figure 
+178,project product scope ,manage,change 
+179,wbs ,organize,deﬁne 
+180,speciﬁcity information project ,knowexist,risk assumption 
+181,process ,provide,basis deﬁne product 
+182,scope process ,differ,control quality process 
+183,work ,refer,work product 
+184,product requirement care ,determinedocumenting,manage 
+185,measure project execution ,begin,requirement foundation 
+186,process ,bring,objectivity acceptance process 
+187,project scope ,begin,analysis information 
+188,scope management process ,create,scope management 
+189,framework ,deliver,process 
+190,technique input output ,collect,requirement 
+191,sponsor process output ,obtain,result planning process 
+192,planning iteration ,carry,work progress 
+193,stakeholder ,register,business document 
+194,process output ,obtain,result planning process 
+195,change ,occurintegrate,control process 
+196,control project scope ,ensure,request change 
+197,process ,provide,guidance 
+198,scope work ,carry,project team 
+199,objectivity acceptance process ,increase,probability 
+200,analysis information ,contain,project charter 
+201,scope process ,monitor,status project product 
+202,knowledge area basis ,perform,validation 
+203,constraint analyze completeness ,add,update 
+204,information help ,optimize,sequencing process 
+205,activity duration process ,require,estimation work 
+206,event ,deﬁne,predecessor successor 
+207,analysis reserve analysis use ,determine,contingency management reserve 
+208,day ,indicate,activity 
+209,constraint ,create,schedule model project 
+210,manager outcome meeting ,include,iteration 
+211,activity resource requirement ,identify,type 
+212,schedule documentation estimate ,produce,management reserve schedule 
+213,project schedule ,indicate,time period 
+214,schedule process ,include,limit 
+215,schedule ,need,duration 
+216,inﬂuence factor ,create,schedule change 
+217,output manufacture plant ,achieve,procure 
+218,uncertainty ,expect,duration 
+219,iteration team ,break,user story 
+220,phase project ,improve,accuracy precision 
+221,estimate hour create ,deliverprioritize,user story 
+222,project document ,consider,input process 
+223,,updateinclude,risk register project document update 
+224,analysis ,includedetermine,schedule methodology use 
+225,term work package ,decompose,activity 
+226,planning meeting ,develop,schedule management plan 
+227,punch list ,write,draft landscape building 
+228,project duration requirement ,depend,contract term 
+229,activity attribute ,extend,description 
+230,project duration ,determine,schedule 
+231,quantity resource ,require,activity use 
+232,development ,require,review revision duration 
+233,scenario analysis process ,evaluate,scenario order 
+234,risk ,accept,contingency reserve associate 
+235,product roadmap release ,planning,iteration planning figure 
+236,resource activity ,increase,duration knowledge transfer 
+237,deﬁne activity process ,identify,document 
+238,sequence activity process ,identifydocumenting,relationship project activitie 
+239,aggregate schedule reserve ,reduce,probability schedule 
+240,information scope work ,require,resource type 
+241,risk source uncertainty ,use,calculate 
+242,assumption ,develop,duration 
+243,project team assignment ,specify,resource 
+244,requirement revision ,generatedevelop,schedule process 
+245,schedule management plan ,allow,consistency estimate 
+246,value range estimate ,expect,duration 
+247,writing team ,begin,edit 
+248,path ,include,activity 
+249,process ,generate,schedule model 
+250,network project activity ,relate,activity attribute 
+251,schedule constraint ,impose,date schedule 
+252,project duration estimate ,include,contingency 
+253,summary activity ,use,milestone 
+254,level accuracy criterion ,require,sequence activity 
+255,level accuracy ,depend,sophistication 
+256,produce ,validatedaccept,velocity time 
+257,project project ,use,rolling wave 
+258,support detail ,include,limit 
+259,level accuracy criterion ,require,estimate activity duration 
+260,system pc successor ,start,pc hardware 
+261,hour create ,deliverprioritize,user story 
+262,network analysis ,overarching,technique use generate 
+263,technique project manager ,ask,team level support 
+264,work activity ,decompose,detail detail duration 
+265,impact ,achieve,project 
+266,item team ,commit,work 
+267,component ,require,change request project 
+268,technique use ,construct,schedule model activity 
+269,activity ,estimate,resource 
+270,project deliverable ,considerbuild,schedule model 
+271,lag activity ,relate,assumption document figure 
+272,pdm technique use ,construct,schedule model activity 
+273,estimate ,include,indication range 
+274,activity use ,create,schedule model 
+275,resource calendar ,contain,information 
+276,scheduling methodology ,contain,policy govern schedule 
+277,system ,shut,predecessor pdm 
+278,activity process ,reveal,work 
+279,project management team ,determine,dependency 
+280,example crash include ,approve,overtime 
+281,budget ,withhold,management 
+282,activity component activity ,evolve,time 
+283,contingency reserve use ,reduce,eliminate 
+284,process concentrate ,convert,project activity list 
+285,model maintenance process ,use,update status record 
+286,change ,occur,work contract 
+287,contract term ,use,management 
+288,schedule network analysis ,overarching,technique use generate 
+289,story prioritize feature ,deliver,user story estimate 
+290,methodology ,considerdevelop,activity deﬁnition 
+291,assess ,need,aggregate schedule reserve 
+292,base point ,assumedprovide,distribution 
+293,utilization sequence information ,reveal,result 
+294,,acceleratebring,way delay schedule track 
+295,capability help plan ,organize,adjust sequence activity 
+296,ﬁstofﬁve process team ,achieve,consensus hold ﬁnger 
+297,application ,use,resource dependency pattern 
+298,activity ,develop,monitoring control schedule 
+299,structure ,identiﬁed,resource resource category 
+300,duration effort ,involve,type resource 
+301,information scope work ,require,resource type skill 
+302,predecessor activity ,indicate,path convergence activity 
+303,lag reﬁnement ,apply,network analysis 
+304,schedule ,adjuststart,time successor 
+305,schedule network analysis ,perform,use schedule 
+306,phase project ,improve,validity schedule model 
+307,process ,provide,time activity 
+308,management plan component ,include,limit 
+309,singlepoint duration estimate ,improveconsider,estimation uncertainty risk 
+310,control schedule process ,monitor,status project update 
+311,activity attribute ,provide,detail 
+312,schedule network analysis ,perform,use schedule compute 
+313,constraint process ,perform,project 
+314,risk issue scenario ,use,probability distribution 
+315,activity process concentrate ,convert,project activity list 
+316,implementation risk response ,reduce,risk 
+317,process ,decompose,work package schedule 
+318,schedule process ,analyze,activity sequence duration 
+319,resource assign activity ,reduce,efﬁciency productivity increase 
+320,,approveintegrate,perform change control process 
+321,process asset inﬂuence ,develop,schedule process 
+322,dependency impediment feature ,represent,value customer 
+323,work schedule model ,require,project calendar 
+324,deﬁne target ,start,target 
+325,approach ,use,sequence activity 
+326,portion duration example ,construct,foundation 
+327,relationship project activity ,sequencing,activity 
+328,process ,consider,quality availability 
+329,schedule management plan ,allow,consistency estimate result 
+330,iteration sprint release ,allow,product owner 
+331,dependency ,establish,base knowledge 
+332,activity process concentrate ,convert,project activity 
+333,work ,expand,ﬁll time 
+334,baseline ,approve,version schedule model 
+335,date activity ,adjust,plan resource use 
+336,schedule ,develop,schedule process 
+337,performance measurement ,set,example schedule management 
+338,technique input output ,define,activity 
+339,project team ,hold,planning meeting 
+340,schedule constraint ,impose,date 
+341,activity assumption ,constraint,risk issue scenario 
+342,decision regard resource ,allow,team 
+343,dependency ,involve,precedence relationship project 
+344,network analysis ,perform,use schedule compute 
+345,path software package ,allow,user deﬁne 
+346,project team ,hold,meeting estimate activity 
+347,rule performance measurement ,set,example schedule management 
+348,disposition perform ,integrate,change control process 
+349,bottomup ,estimating,method estimate project 
+350,process ,generate,schedule model plan 
+351,walkthrough ,ensure,contractor report 
+352,test ,integrate,component product z 
+353,relationship successor activity ,start,predecessor activity 
+354,bar chart ,identify,schedule 
+355,cost ,add,resource 
+356,management information system ,include,scheduling software expedite 
+357,project management reserve ,intend,address 
+358,model ,combine,effect 
+359,activity availability speciﬁc resource type resource ,,
+360,activity attribute update ,includerevise,resource 
+361,activity ,recommend,decision 
+362,change ,eliminatereduce,probability 
+363,schedule ,start,completion 
+364,lesson ,learnregister,update 
+365,management information system ,includes,scheduling software 
+366,iteration sprint release ,allow,product owner team 
+367,ﬁst ,indicate,support 
+368,project schedule ,includestart,plan date 
+369,date ,adjust,base resource constraint 
+370,example ,write,document predecessor 
+371,step ,include,deﬁne 
+372,release planning ,provide,highlevel summary timeline 
+373,schedule network diagram ,timescaled,logic diagram diagram 
+374,management information system ,include,scheduling software 
+375,activity duration process ,require,estimation work effort 
+376,activity ,represent,effort 
+377,work progress ,agreeensure,schedule control schedule 
+378,activity attribute ,extend,description activity 
+379,technique project manager ,ask,team level 
+380,project management reserve ,include,schedule baseline 
+381,input project schedule ,develop,detail 
+382,assumption support duration ,estimating,document activity duration 
+383,schedule baseline ,approve,version schedule model 
+384,request component ,require,change request project 
+385,capability help plan ,organize,adjust sequence 
+386,dependency impediment feature ,represent,value customer timeline 
+387,accuracy criterion ,require,estimate activity duration 
+388,activity list ,contain,schedule 
+389,ﬁstofﬁve process team ,achieve,consensus hold 
+390,factor inﬂuence ,develop,schedule process 
+391,goal timeboxing help ,minimize,scope 
+392,process asset inﬂuence ,estimate,activity duration 
+393,project ,inputs,tool technique output 
+394,date ,establish,process 
+395,activity list ,include,schedule activity 
+396,factor inﬂuence ,estimate,activity duration process 
+397,scenario analysis ,use,assess feasibility project 
+398,schedule activity ,require,project project 
+399,maintenance process ,use,update status record 
+400,convention ,use,figure 
+401,use parameter ,enter,schedule model activity 
+402,summary form ,refer,master schedule milestone 
+403,distribution provide ,expect,duration clarify 
+404,level detail ,depend,project life cycle 
+405,schedule documentation estimate ,produce,management reserve 
+406,project milestone ,identify,sequence activity estimate 
+407,component perform ,integrate,change control process 
+408,technique use process ,include,limit 
+409,control schedule process ,monitor,status project 
+410,meeting hold team member subject ,,
+411,practice ,recommend,construction 
+412,list ,include,schedule activity 
+413,activity sufﬁcient detail ,ensure,project team 
+414,aggregate schedule reserve ,reduce,probability 
+415,project scope order ,meet,schedule constraint 
+416,quantity measure ,deﬁne,resource 
+417,level accuracy criterion ,require,estimate activity 
+418,package plan series ,related,activity 
+419,project team ,control,example 
+420,activity perform pdm ,include,type dependency 
+421,iteration speciﬁe ,timeboxed,period duration team 
+422,team ,weigh,resource cost 
+423,help ,planorganize,adjust sequence activity 
+424,technique use shorten ,accelerate,schedule duration 
+425,work ,exist,level detail 
+426,rule ,establish,percent 
+427,document update result ,carry,process 
+428,project management plan ,establish,criterion 
+429,day iteration ,attend,product 
+430,schedule ,continue,duration project 
+431,resource assign activity ,reduce,efﬁciency productivity 
+432,sequence activity process ,include,limit 
+433,activity ,occur,time 
+434,component product z ,deliver,product z 
+435,contingency reserve use ,reduce,eliminate contingency 
+436,process asset inﬂuence ,estimate,activity duration process 
+437,review disposition perform ,integrate,change control process 
+438,activity duration process ,require,estimation work 
+439,constraint process ,perform,project 
+440,process ,decompose,work package schedule 
+441,activity process concentrate ,convert,project activity list 
+442,,userequire,determine effort produce 
+443,,approveintegrate,perform change control process 
+444,schedule process ,analyze,activity sequence duration 
+445,constraint ,create,schedule model project 
+446,assumption support duration ,estimating,document activity duration 
+447,point project ,inputs,tool technique output 
+448,inﬂuence factor ,create,schedule change 
+449,activity ,estimate,resource 
+450,output ,develop,schedule 
+451,output manufacture plant ,achieve,procure 
+452,process ,consider,quality availability 
+453,activity process concentrate ,convert,project activity 
+454,work ,expand,ﬁll time 
+455,direction project schedule ,manage,project 
+456,planning ,developmanageexecuting,control project 
+457,schedule management process ,establish,policy procedure documentation 
+458,technique input output ,define,activity 
+459,change ,occur,work contract 
+460,process concentrate ,convert,project activity list 
+461,development ,require,review revision duration 
+462,resource activity ,increase,duration knowledge transfer 
+463,process ,generate,schedule model plan 
+464,sequence activity process ,identifydocumenting,relationship project activitie 
+465,schedule process ,monitor,status project update 
+466,deﬁne activity process ,identify,document 
+467,project milestone ,identify,sequence activity estimate 
+468,walkthrough ,ensure,contractor report 
+469,information scope work ,require,resource type 
+470,component perform ,integrate,change control process 
+471,management process ,establish,policy procedure documentation 
+472,produce ,validatedaccept,velocity time 
+473,duration effort ,involve,type resource 
+474,information scope work ,require,resource type skill 
+475,schedule ,continue,duration project 
+476,process ,provide,time activity 
+477,step ,include,deﬁne 
+478,activity duration process ,require,estimation work effort 
+479,work progress ,agreeensure,schedule control schedule 
+480,management process ,include,limit 
+481,cost saving fund ,add,contingency project 
+482,level ,specified,detail 
+483,unit measure unit ,use,measurement staff hour 
+484,value range estimate ,expect,cost 
+485,possibility ,manage,cost 
+486,engage team member ,improve,estimate accuracy 
+487,phase project ,improve,accuracy precision 
+488,cost management process ,include,limit 
+489,process ,perform,project 
+490,rework contingency reserve ,provide,level 
+491,,updateinclude,risk register project document update 
+492,phase project ,improve,cost control 
+493,analysis ,establish,management reserve 
+494,project schedule ,include,plan 
+495,chart ,earn,value analysis parameter 
+496,cost management activity ,include,limit 
+497,inﬂuence factor ,create,change 
+498,level accuracy ,depend,sophistication 
+499,cost management plan ,allow,consistency estimate budget 
+500,detail cost estimate ,contain,basis 
+501,information use ,develop,model 
+502,funding debt ,include,consideration way 
+503,,updateinclude,risk register project document 
+504,account level project ,use,earn value analysis 
+505,resource ,require,project process 
+506,category cost ﬁnancing ,include,interest charge 
+507,abbreviation interpretation result ,authorized,budget assign 
+508,work package accordance ,wbs,work package cost 
+509,formula ,provide,table 
+510,process asset inﬂuence ,determine,budget process 
+511,management plan ,allow,consistency estimate budget 
+512,stakeholder approve change ,associated,cost 
+513,project manager ,consider,forecast 
+514,management information system ,include,spreadsheet 
+515,criterion activity ,develop,monitoring control schedule 
+516,component ,require,change request project 
+517,technique input output ,determine,budget 
+518,attribute project ,include,limit scope cost 
+519,performance information ,includes,information project work 
+520,model software development ,costing,use 
+521,purchase ,includedetermine,budget 
+522,information ,includes,information project 
+523,planning meeting ,develop,cost management plan 
+524,parameter ,use,model 
+525,resource requirement ,identify,type quantity 
+526,budget ,withhold,management 
+527,work performance information ,includes,information project work 
+528,project ,needinputs,tool technique output 
+529,risk management plan ,provide,approach 
+530,process project budget ,includeauthorize,fund 
+531,lease ,sharing,resource order 
+532,cost process ,develop,approximation cost resource 
+533,control cost process ,monitor,status project update 
+534,work ,use,conjunction cost performance 
+535,budget tcpi ,calculated,cost performance index 
+536,effort assessment ,require,work 
+537,level precision accuracy ,require,cost estimate 
+538,consideration way ,acquire,project resource purchase 
+539,deﬁne point ,wbs,measurement control 
+540,action ,use,respond cost variance 
+541,base point ,assumedprovide,distribution 
+542,forecast ,provide,validity check bottomup 
+543,progress project team ,develop,forecast estimate completion 
+544,efﬁciency rate ,consider,cost schedule performance 
+545,project estimate ,include,activity 
+546,risk time ,remain,project 
+547,reserve ,add,project budget 
+548,variance analysis ,use,evm explanation cause 
+549,work ,remain,budget tcpi 
+550,constraint identiﬁe ,exist,assumption constraint revisit 
+551,information project ,incorporate,cost ﬁnance 
+552,response ,approve,change scope schedule 
+553,cost ac ,realize,cost incur work 
+554,process ,determine,cost 
+555,management reserve ,include,cost 
+556,management plan component ,include,limit 
+557,management information system ,use,monitor evm 
+558,project team ,develop,forecast estimate completion 
+559,analysis technique use ,determine,budget process 
+560,process project budget ,includeexecute,fund authorize 
+561,cost performance ,indicate,need revise assumption 
+562,resource ,require,work package activity 
+563,cost estimate ,include,identiﬁcation 
+564,conﬁdence accuracy ,expect,cost estimate resource 
+565,hour staff day ,use,facilitate comparison 
+566,performance ,improveaccept,support project 
+567,analysis cost estimate ,include,contingency 
+568,project team ,hold,planning meeting 
+569,level project ,use,earn value analysis 
+570,cost performance ,indicate,need revisit 
+571,cost ,estimating,method 
+572,pv ,refer,performance measurement 
+573,work ,performbudgeted,rate eac method 
+574,disposition perform ,integrate,change control process 
+575,work budget associate ,authorized,work 
+576,cost estimate tool ,simplify,use costestimate 
+577,uncertainty ,expect,cost 
+578,control cost process ,include,limit 
+579,level accuracy ,require,manage project cost 
+580,cost ,estimating,policy 
+581,contingency account ,identiﬁed,risk management reserve 
+582,project cost ,develop,project charter deﬁne 
+583,example project document ,consider,input process 
+584,lesson ,learnregister,update 
+585,consideration ,include,risk time 
+586,prediction base information ,know,point time cost 
+587,budget ,determineaggregate,budget process 
+588,risk ,include,estimate 
+589,value document ,communicate,stakeholder 
+590,process ,develop,approximation cost resource 
+591,place ,impose,date constraint work 
+592,distribution ,provideexpect,cost clarify range 
+593,summation ,approve,budget 
+594,resource charge project ,includelimit,labor 
+595,reserve analysis ,use,monitor 
+596,value attribute project ,include,limit scope 
+597,identiﬁe ,exist,assumption constraint revisit 
+598,component ,require,produce 
+599,request component ,require,change request project 
+600,project team ,predict,encounter perform 
+601,resource management plan ,provide,information 
+602,degree conﬁdence accuracy ,expect,cost estimate resource 
+603,risk management plan ,provide,process control 
+604,timephase project budget ,exclude,management 
+605,work package accordance ,wbs,work package 
+606,cost performance evm ,integrate,scope 
+607,earn schedule variance ,use,conjunction 
+608,effort cost control ,involveanalyze,relationship 
+609,schedule ,include,type quantity time 
+610,earn value analysis ,compare,performance measurement 
+611,reserve view budget ,intend,address 
+612,project ,perform,budget 
+613,project funding requirement ,include,project expenditure 
+614,management reserve ,intend,address 
+615,action ,require,percentage range 
+616,business document ,consider,input process 
+617,culture structure inﬂuence ,cost,management 
+618,prediction base information ,know,point time 
+619,change ,includecost,report resource 
+620,alternative ,expect,outcome 
+621,time cost estimate ,include,identiﬁcation 
+622,cost estimate improve ,consider,estimation 
+623,reserve use ,add,cost 
+624,project budget ,include,contingency 
+625,process asset inﬂuence ,determine,budget 
+626,control cost process ,monitor,status project 
+627,example variance analysis ,includelimit,
+628,defnition ,use,equation abbreviation interpretation 
+629,document update result ,carry,process 
+630,funding period ,wbs,component activity 
+631,measure need ,relate,pmb 
+632,project management team ,achieve,quality 
+633,process use ,obtain,approval 
+634,value attribute project ,include,limit scope cost 
+635,project ,know,budget completion bac 
+636,cost expenditure ,exceedauthorize,funding period 
+637,project budget ,includeexecute,fund authorize 
+638,resource charge project ,includelimit,labor 
+639,stakeholder approve change ,associated,cost 
+640,process project budget ,includeexecute,fund authorize 
+641,degree conﬁdence accuracy ,expect,cost estimate resource 
+642,technique input output ,determine,budget 
+643,conﬁdence accuracy ,expect,cost estimate resource 
+644,effort cost control ,involveanalyze,relationship 
+645,hour staff day ,use,facilitate comparison 
+646,process ,perform,project 
+647,prediction base information ,know,point time 
+648,project ,needinputs,tool technique output 
+649,change ,includecost,report resource 
+650,lease ,sharing,resource order 
+651,cost process ,develop,approximation cost resource 
+652,time cost estimate ,include,identiﬁcation 
+653,project planning ,set,framework cost 
+654,,spendauthorized,date increase budget 
+655,inﬂuence factor ,create,change 
+656,project budget ,include,contingency 
+657,cost process ,monitor,status project update 
+658,process ,provide,guidance direction project 
+659,prediction base information ,know,point time cost 
+660,funding period ,wbs,component activity 
+661,process ,determine,cost 
+662,resource ,require,project process 
+663,cost expenditure ,exceedauthorize,funding period 
+664,process ,develop,approximation cost resource 
