@@ -5,9 +5,9 @@
 
 
 def search(query):
-    #
+    
     from model import search_engine
-    search_engine(query)  # Press Ctrl+F8 to toggle the breakpoint.
+    search_engine(query)  
 
 
 # Press the green button in the gutter to run the script.
